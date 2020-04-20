@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+	
+    <!--Device Trees-->
+    <project path="device/samsung/zero-common" name="andy-butterworth/android_device_samsung_zero-common" revision="lineage-15.1" remote="github" />
+    <project path="device/samsung/zerofltexx" name="andy-butterworth/android_device_samsung_zerofltexx" revision="lineage-15.1" remote="github" />
+    <project path="device/samsung/zeroltexx" name="andy-butterworth/android_device_samsung_zeroltexx" revision="lineage-15.1" remote="github" />
+
+    <!--Kernel-->
+    <project path="kernel/samsung/exynos7420" name="andy-butterworth/android_kernel_samsung_exynos7420" revision="lineage-15.1" remote="github" />
+
+    <!--Proprietary Files-->
+    <project path="vendor/samsung" name="andy-butterworth/proprietary_vendor_samsung" revision="lineage-15.1" remote="github" />
+
+    <!--Dependencies-->
+    <project path="hardware/samsung/" name="andy-butterworth/android_hardware_samsung" revision="lineage-15.1" remote="github" />
+    <project path="hardware/samsung_slsi-cm/exynos" name="andy-butterworth/android_hardware_samsung_slsi-cm_exynos" revision="lineage-15.1" remote="github" />
+    <project path="hardware/samsung_slsi-cm/exynos5" name="andy-butterworth/android_hardware_samsung_slsi-cm_exynos5" revision="lineage-15.1" remote="github" />
+    <project path="hardware/samsung_slsi-cm/openmax" name="andy-butterworth/android_hardware_samsung_slsi-cm_openmax" revision="lineage-15.1" remote="github" />
+    <project path="hardware/samsung_slsi-cm/exynos7420" name="andy-butterworth/android_hardware_samsung_slsi-cm_exynos7420" revision="lineage-15.1" remote="github" />
+    
+</manifest>
